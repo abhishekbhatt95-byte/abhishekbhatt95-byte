@@ -87,15 +87,16 @@
 
 ## 📊 GitHub Stats
 
+## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhishekbhatt95-byte&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="Abhishek's GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekbhatt95-byte&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=abhishekbhatt95-byte&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" width="48%"/>
+  <img src="https://streak-stats.demolab.com?user=abhishekbhatt95-byte&theme=tokyonight&hide_border=true" width="48%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekbhatt95-byte&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="48%" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekbhatt95-byte&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="48%"/>
 </p>
-
 ---
 
 ## 🏆 GitHub Trophies
