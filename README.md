@@ -88,12 +88,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhishekbhat95-byte&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="Abhishek's GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekbhat95-byte&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=abhishekbhatt95-byte&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="Abhishek's GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekbhatt95-byte&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekbhat95-byte&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="48%" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekbhatt95-byte&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="48%" alt="Top Languages"/>
 </p>
 
 ---
@@ -101,7 +101,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abhishekbhat95-byte&theme=onestar&no-frame=true&row=1&column=7&margin-w=10" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=abhishekbhatt95-byte&theme=onestar&no-frame=true&row=1&column=7&margin-w=10" alt="GitHub Trophies"/>
 </p>
 
 <img src="https://raw.githubusercontent.com/yusufyusie/yusufyusie/main/line.gif" width="100%"/>
@@ -132,8 +132,8 @@
 ## 🤝 Connect with Me
 
 <p align="left">
-  <a href="https://github.com/abhishekbhat95-byte" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-abhishekbhat95--byte-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <a href="https://github.com/abhishekbhatt95-byte" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-abhishekbhatt95--byte-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>&nbsp;
   <a href="https://linkedin.com/in/abhishek-bhatt-ds" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Abhishek%20Bhatt-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -153,5 +153,5 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abhishekbhat95-byte&label=Profile%20Views&color=00F7FF&style=flat-square" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=abhishekbhatt95-byte&label=Profile%20Views&color=00F7FF&style=flat-square" alt="Profile Views"/>
 </p>
