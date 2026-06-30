@@ -69,21 +69,32 @@
 ## 🚀 Featured Projects
 
 ### 🏥 MedDecode AI — AI-Powered Healthcare Transparency Platform
-> *React · TypeScript · Supabase · PostgreSQL · OpenAI · Google Gemini · OCR · 2025–Present*
+> *React · TypeScript · Supabase · PostgreSQL · Google Gemini · OCR · 2025–Present*
 
-- Built an AI-powered platform that simplifies **prescriptions, blood reports, hospital bills**, and medical documents into plain-language explanations
-- Implemented **OCR pipelines**, AI summarization, secure document storage, and an **elderly-friendly** accessible UX with Read Aloud support
-- Designed a **production-grade architecture** using Supabase Auth, Edge Functions, Row Level Security (RLS), rate limiting, and multi-instance-safe background jobs via Inngest
+- Built an AI-powered platform that simplifies prescriptions, blood reports, hospital bills, and medical documents into plain-language explanations.
+- Implemented OCR pipelines, AI summarization, secure document storage, and an elderly-friendly accessible UX with Read Aloud support.
+- Designed a production-grade architecture using Supabase Auth, Edge Functions, Row Level Security (RLS), rate limiting, and multi-instance-safe background jobs via Inngest.
+- Focused on improving healthcare transparency and medical literacy for everyday users.
+
+---
+
+### ⏰ Last-Minute Life Saver — AI-Powered Productivity Companion
+> *React · TypeScript · Google Gemini API · Google AI Studio · Google Cloud Run · 2026*
+
+- Built an AI-powered productivity companion that helps students and professionals avoid missing deadlines and important commitments.
+- Developed intelligent task prioritization, personalized schedule generation, and AI-powered task breakdown using Google's Gemini API.
+- Implemented a "What Should I Do Right Now?" recommendation engine that proactively suggests the highest-impact task based on urgency, importance, and effort.
+- Designed a deadline risk prediction system that identifies tasks likely to be missed and provides actionable recommendations to complete tasks on time.
+- Built a modern analytics dashboard featuring productivity insights, task completion tracking, and schedule optimization.
+- Deployed the application on Google Cloud using Google AI Studio as part of a hackathon project.
 
 ---
 
 ### 🎮 KY Shooter Game — 2D Action Game
 > *Python · Pygame · 2024*
 
-- Developed a 2D shooter game featuring **enemy AI, collision detection**, scoring systems, and multiple game states
-- Implemented **object-oriented game architecture**, animations, sound effects, and event-driven gameplay mechanics
-
----
+- Developed a 2D shooter game featuring enemy AI, collision detection, scoring systems, and multiple game states.
+- Implemented object-oriented game architecture, animations, sound effects, and event-driven gameplay mechanics.
 
 ## 📊 GitHub Stats
 
